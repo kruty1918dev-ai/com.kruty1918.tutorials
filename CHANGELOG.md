@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2 — 2026-10-04
+
+- Include stable Unity metadata for package documentation and license.
+- Use the package manifest importer; clean immutable UPM installs need no generated metadata.
+
 ## 0.1.1 — 2026-10-04
 
 - Move standalone .NET tooling under `Tools~` so Unity excludes it from asset import.

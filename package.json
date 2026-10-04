@@ -1,6 +1,6 @@
 {
   "name": "com.kruty1918.tutorials",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "displayName": "Gentle Tutorials",
   "description": "Persistent, skippable tutorials driven by evaluated gameplay actions, with independent targets, presenters and idempotent rewards.",
   "unity": "2021.3",

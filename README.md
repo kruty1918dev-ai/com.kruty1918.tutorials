@@ -9,7 +9,7 @@ Teach a game through calm, evaluated actions. A step closes when the player actu
 Unity → Window → Package Manager → **Add package from git URL**:
 
 ```text
-https://github.com/kruty1918dev-ai/com.kruty1918.tutorials.git#v0.1.1
+https://github.com/kruty1918dev-ai/com.kruty1918.tutorials.git#v0.1.2
 ```
 
 Start with the [five-minute integration](Documentation~/quick-start.md), then import **Gentle Guide** from the package's Samples tab.
