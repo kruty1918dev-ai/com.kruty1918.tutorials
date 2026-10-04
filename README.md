@@ -9,7 +9,7 @@ Teach a game through calm, evaluated actions. A step closes when the player actu
 Unity → Window → Package Manager → **Add package from git URL**:
 
 ```text
-https://github.com/kruty1918dev-ai/com.kruty1918.tutorials.git#v0.1.0
+https://github.com/kruty1918dev-ai/com.kruty1918.tutorials.git#v0.1.1
 ```
 
 Start with the [five-minute integration](Documentation~/quick-start.md), then import **Gentle Guide** from the package's Samples tab.
@@ -39,6 +39,6 @@ Build explanations around the current cue, keep essential settings available, an
 
 ## Validation and contributions
 
-Run standalone checks with `dotnet run --project Tools/CoreChecks`. Add the package to `testables` in your project's manifest to run its EditMode tests. [Architecture and lifecycle](Documentation~/architecture.md) explains versioning, rewards and reappearing targets.
+Run standalone checks with `dotnet run --project Tools~/CoreChecks`. Add the package to `testables` in your project's manifest to run its EditMode tests. [Architecture and lifecycle](Documentation~/architecture.md) explains versioning, rewards and reappearing targets.
 
 Issues and focused pull requests are welcome. Include the Unity version, minimal reproduction and expected cue or progress state. Do not attach personal save files. The package includes no game-specific or licensed third-party art.

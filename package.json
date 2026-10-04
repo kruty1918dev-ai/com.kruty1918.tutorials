@@ -1,13 +1,27 @@
 {
-  "name":"com.kruty1918.tutorials",
-  "version":"0.1.0",
-  "displayName":"Gentle Tutorials",
-  "description":"Persistent, skippable tutorials driven by evaluated gameplay actions, with independent targets, presenters and idempotent rewards.",
-  "unity":"2021.3",
-  "license":"MIT",
-  "author":{"name":"Oleksii Ha","url":"https://github.com/kruty1918dev-ai"},
-  "documentationUrl":"https://github.com/kruty1918dev-ai/com.kruty1918.tutorials/blob/main/Documentation~/quick-start.md",
-  "changelogUrl":"https://github.com/kruty1918dev-ai/com.kruty1918.tutorials/blob/main/CHANGELOG.md",
-  "keywords":["tutorial","onboarding","accessibility","progression"],
-  "samples":[{"displayName":"Gentle Guide","description":"Two evaluated steps with a replaceable presenter and once-only cosmetic reward.","path":"Samples~/GentleGuide"}]
+  "name": "com.kruty1918.tutorials",
+  "version": "0.1.1",
+  "displayName": "Gentle Tutorials",
+  "description": "Persistent, skippable tutorials driven by evaluated gameplay actions, with independent targets, presenters and idempotent rewards.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "author": {
+    "name": "Oleksii Ha",
+    "url": "https://github.com/kruty1918dev-ai"
+  },
+  "documentationUrl": "https://github.com/kruty1918dev-ai/com.kruty1918.tutorials/blob/main/Documentation~/quick-start.md",
+  "changelogUrl": "https://github.com/kruty1918dev-ai/com.kruty1918.tutorials/blob/main/CHANGELOG.md",
+  "keywords": [
+    "tutorial",
+    "onboarding",
+    "accessibility",
+    "progression"
+  ],
+  "samples": [
+    {
+      "displayName": "Gentle Guide",
+      "description": "Two evaluated steps with a replaceable presenter and once-only cosmetic reward.",
+      "path": "Samples~/GentleGuide"
+    }
+  ]
 }
