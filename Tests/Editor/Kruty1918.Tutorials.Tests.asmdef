@@ -1,1 +1,14 @@
-{"name":"Kruty1918.Tutorials.Tests","references":["Kruty1918.Tutorials"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"],"autoReferenced":false}
+{
+  "name": "Kruty1918.Tutorials.Tests",
+  "references": [
+    "Kruty1918.Tutorials",
+    "Kruty1918.Tutorials.Unity"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

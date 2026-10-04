@@ -1,0 +1,7 @@
+{
+  "name": "GentleTutorialSample",
+  "references": [
+    "Kruty1918.Tutorials"
+  ],
+  "autoReferenced": true
+}

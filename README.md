@@ -17,7 +17,7 @@ Start with the [five-minute integration](Documentation~/quick-start.md), then im
 ## What it does
 
 - Stable flow and step IDs, pure C# predicates and Unity-serializable progress.
-- An observation advances one step; invalid actions and absent targets cannot complete it.
+- An observation advances one step; invalid evaluated actions cannot complete it. Missing targets hide highlights without hiding the instruction.
 - Skip and resume without losing already earned steps. Skipping gives access to your game, not an unearned tutorial reward.
 - Separate presenters, native targets and reward adapters. Works with uGUI, UI Toolkit, UnityHTML, world markers or your own UI.
 - A once-only reward boundary with an explicit idempotent host contract.
